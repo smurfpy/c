@@ -1,14 +1,9 @@
-# Build Backend Stack CRUD with NodeJS, MongoDB and Mongoose
 
-This project use [ExpressJS 🚀](https://expressjs.com) ([NodeJS](https://nodejs.org) framework), EJS for admin dashboard, [MongoDB](https://mongodb.com) and [Mongoose](https://mongoosejs.com/) (ODM For NodeJS).
 
 ## ER Diagram For 🌱 MongoDB
 
 ![Entity Diagram MongoDB](https://res.cloudinary.com/dsv9w1ey3/image/upload/v1602518877/github-images/Challange_Ch_6_Entity_Diagram_z7jldc.png)
 
-## Feature
-
-### Dashboard View
 
 ![Dashboard View With EJS](https://res.cloudinary.com/dsv9w1ey3/image/upload/v1602516872/github-images/dashboard-admin-expressjs-mongodb-ejs_ayox7l.png)
 
